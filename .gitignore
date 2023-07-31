@@ -2,3 +2,5 @@
 venv/
 __pycash__/
 /settings.py
+/database.sql
+/image/
